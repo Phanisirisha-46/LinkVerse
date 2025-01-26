@@ -1,6 +1,6 @@
 # Sample College Landing Page
 
-This is a sample **responsive landing page** for a college. The design focuses on user engagement and provides key sections such as Placements, Contact, and more. Built using **HTML**, **CSS**, and **Bootstrap**, this project ensures compatibility across various devices.
+This is a sample **responsive landing page** for a college. The design focuses on user engagement and provides key sections such as Placements, Contact, and more. Built using **HTML**, **CSS**, and **Bootstrap**, this project ensures compatibility across various devices. Took the example of college - VVIT.
 
 ---
 
